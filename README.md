@@ -1,4 +1,4 @@
-# Products Fastify Prisma Backend
+# Products Backend (Fastify, Prisma)
 
 This is a TypeScript-based web server for managing products with user authentication. It uses Fastify as the web server, Prisma as the database ORM, Zod for request and response validation, and Swagger for API documentation.
 
